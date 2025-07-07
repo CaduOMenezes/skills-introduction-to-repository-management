@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @CaduOMenezes
+/src/backend/database.py      @CaduOMenezes
+/src/backend/routers/auth.py  @CaduOMenezes
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @CaduOMenezes
